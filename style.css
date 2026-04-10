@@ -4,3 +4,6 @@ body {
 h1, p {
   color: white;
 }
+.text {
+  text-align: center;
+}
